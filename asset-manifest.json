@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//uriel-sj.github.io/todo-list/static/css/main.611abf82.chunk.css",
+    "main.js": "//uriel-sj.github.io/todo-list/static/js/main.d18a5ba6.chunk.js",
+    "main.js.map": "//uriel-sj.github.io/todo-list/static/js/main.d18a5ba6.chunk.js.map",
+    "runtime-main.js": "//uriel-sj.github.io/todo-list/static/js/runtime-main.d650c5e7.js",
+    "runtime-main.js.map": "//uriel-sj.github.io/todo-list/static/js/runtime-main.d650c5e7.js.map",
+    "static/js/2.51ff5e7c.chunk.js": "//uriel-sj.github.io/todo-list/static/js/2.51ff5e7c.chunk.js",
+    "static/js/2.51ff5e7c.chunk.js.map": "//uriel-sj.github.io/todo-list/static/js/2.51ff5e7c.chunk.js.map",
+    "static/js/3.50e668ba.chunk.js": "//uriel-sj.github.io/todo-list/static/js/3.50e668ba.chunk.js",
+    "static/js/3.50e668ba.chunk.js.map": "//uriel-sj.github.io/todo-list/static/js/3.50e668ba.chunk.js.map",
+    "index.html": "//uriel-sj.github.io/todo-list/index.html",
+    "static/css/main.611abf82.chunk.css.map": "//uriel-sj.github.io/todo-list/static/css/main.611abf82.chunk.css.map",
+    "static/js/2.51ff5e7c.chunk.js.LICENSE.txt": "//uriel-sj.github.io/todo-list/static/js/2.51ff5e7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d650c5e7.js",
+    "static/js/2.51ff5e7c.chunk.js",
+    "static/css/main.611abf82.chunk.css",
+    "static/js/main.d18a5ba6.chunk.js"
+  ]
+}
